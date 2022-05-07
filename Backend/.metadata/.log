@@ -1227,18 +1227,24 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2022-05-07 09:51:22.245 -----------------------------------------------
 eclipse.buildId=4.22.0.I20211124-1800
 =======
 !SESSION 2022-05-06 16:26:15.098 -----------------------------------------------
 eclipse.buildId=4.23.0.I20220308-0310
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+!SESSION 2022-05-06 16:26:15.098 -----------------------------------------------
+eclipse.buildId=4.23.0.I20220308-0310
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 java.version=17.0.2
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.ui 2 0 2022-05-07 09:51:47.395
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
@@ -1254,6 +1260,8 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-05-07 09:52:26.918
 =======
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 !ENTRY org.eclipse.ui 2 0 2022-05-06 16:26:27.559
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
 !SUBENTRY 1 org.eclipse.ui 2 0 2022-05-06 16:26:27.559
@@ -1267,17 +1275,24 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !ENTRY org.eclipse.jface 2 0 2022-05-06 16:26:30.717
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-05-06 16:26:30.717
+<<<<<<< HEAD
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26864891,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48dfce5c,
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48dfce5c,
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -1286,28 +1301,38 @@ Binding(CTRL+SHIFT+T,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5946e540,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-05-07 09:52:26.918
 =======
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@eccaf1b,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-05-06 16:26:30.718
+<<<<<<< HEAD
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@651a399,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3dceec83,
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3dceec83,
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -1316,14 +1341,19 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@79ef8115,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74b13aa,
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74b13aa,
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.ui.navigator 2 0 2022-05-07 09:52:54.876
 !MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
@@ -1338,6 +1368,8 @@ not correct please set the HOME environment variable and restart Eclipse. Otherw
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 =======
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2022-05-06 16:26:34.650
 !MESSAGE Cannot determine URI for '/ComplaintRedressalSystem/pom.xml'.
 !STACK 1
@@ -2355,4 +2387,7 @@ Java Model Exception: Error in Java Model (code 1006): src/main/resources/com/re
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
 !SUBENTRY 1 org.eclipse.jdt.core 4 1006 2022-05-06 16:38:21.273
 !MESSAGE src/main/resources/com/repository [in ComplaintRedressalSystem] is not on its project's build path
+<<<<<<< HEAD
 >>>>>>> f4a894511551543002f19fa6ee601a86db34053c
+=======
+>>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
