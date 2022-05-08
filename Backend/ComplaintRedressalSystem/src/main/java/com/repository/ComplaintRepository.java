@@ -5,7 +5,6 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.model.Complaints;
 
-
 public interface ComplaintRepository extends CrudRepository<Complaints, Integer> {
 
 //	Iterable<Complaints> findAll(Sort sort);

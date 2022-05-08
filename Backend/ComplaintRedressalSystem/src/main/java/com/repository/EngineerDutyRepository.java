@@ -6,7 +6,7 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.model.EngineerDuty;
 
-public interface EngineerDuty extends CrudRepository<EngineerDuty, Integer> {
+public interface EngineerDutyRepository extends CrudRepository<EngineerDuty, Integer> {
 
 	List<EngineerDuty> findEngineerDutyByEngineerEmail(String engineerEmail);
 
