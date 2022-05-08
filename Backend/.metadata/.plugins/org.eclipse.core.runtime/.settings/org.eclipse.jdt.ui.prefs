@@ -1,9 +1,8 @@
-content_assist_favorite_static_members=org.testng.Assert.*
-<<<<<<< HEAD
-content_assist_number_of_computers=22
-=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=0b773cda4ca555d6697b56ea82552301200abac1
+content_assist_favorite_static_members=org.testng.Assert.*;org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*;org.mockito.ArgumentMatchers.*;org.mockito.Mockito.*
 content_assist_number_of_computers=21
->>>>>>> 0b773cda4ca555d6697b56ea82552301200abac1
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
