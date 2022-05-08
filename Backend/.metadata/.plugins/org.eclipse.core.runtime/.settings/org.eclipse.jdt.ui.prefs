@@ -1,3 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=c4b4ed4379fa8b9f6813c92540ba59ebcfd243f2
 content_assist_favorite_static_members=org.testng.Assert.*;org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*;org.mockito.ArgumentMatchers.*;org.mockito.Mockito.*
 content_assist_number_of_computers=22
 content_assist_proposals_background=255,255,255
