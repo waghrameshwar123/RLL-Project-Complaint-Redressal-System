@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-GitRepositoriesView.GitDirectories=D\:\\RLL\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\RLL\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
-=======
-GitRepositoriesView.GitDirectories=D\:\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
->>>>>>> 65f4d219c986f3eababdeee9eab9be903c7e67ca
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=65f4d219c986f3eababdeee9eab9be903c7e67ca
+GitRepositoriesView.GitDirectories=D\:\\RLL-Project-Complaint-Redressal-System\\.git;D\:\\RLL projects\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\RLL-Project-Complaint-Redressal-System\\.git;D\:\\RLL projects\\RLL-Project-Complaint-Redressal-System\\.git;C\:\\bhanu\\files\\.git;D\:\\RLL Team Project\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
