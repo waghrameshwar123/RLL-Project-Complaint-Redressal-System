@@ -1,0 +1,15 @@
+<div class="login_page">
+  <h2 class="title">Login Page</h2>
+  <form #loginRef="ngForm" (ngSubmit)="checkUser(loginRef)">
+    <label>EmailId</label>
+    <input type="email" name="emailid" ngModel /><br />
+    <label>Password</label>
+    <input type="password" name="password" ngModel /><br />
+    <input type="radio" name="typeOfUser" value="admin" ngModel /><span
+      >Admin</span
+    >
+    <input class="submit" type="submit" value="submit" />
+    <input class="reset" type="reset" value="reset" />
+  </form>
+  <span style="color: red">{{ msg }}</span>
+</div>
